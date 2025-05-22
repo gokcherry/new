@@ -1,0 +1,52 @@
+[2025-05-20 21:58:45] Dosyalar listelendi.
+[2025-05-20 21:58:49] Disk formatlandi.
+[2025-05-20 22:07:27] Dosyalar listelendi.
+[2025-05-20 22:07:32] Dosya olusturuldu: a
+[2025-05-20 22:07:32] Dosyalar listelendi.
+[2025-05-20 22:07:56] Dosya olusturuldu: b
+[2025-05-20 22:07:56] Dosyalar listelendi.
+[2025-05-20 22:32:49] Dosyalar listelendi.
+[2025-05-20 22:32:57] Dosya olusturuldu: a
+[2025-05-20 22:32:58] Dosyalar listelendi.
+[] Disk formatlandi.
+[] Disk formatlandi.
+[] Dosya olusturuldu: sistem programlama
+[] Dosyalar listelendi.
+[] Dosya olusturuldu: bilgisayar a§lar
+[] Dosya olusturuldu: yapay zeka
+[] Dosyalar listelendi.
+[] Dosya silindi: yapay zeka
+[] Dosyalar listelendi.
+[] Veri yazildi: sistem programlama (7 byte)
+[] Dosya okundu: sistem programlama (offset: 0, size: 7)
+[] Dosya adi degistirildi: bilgisayar a§lar -> teknik ingilizce
+[] Dosyalar listelendi.
+[] Dosya var mi kontrol edildi: yapay zeka -> HAYIR
+[] Dosya var mi kontrol edildi: gokce -> HAYIR
+[] Dosya var mi kontrol edildi: bilgisayar a§lar -> HAYIR
+[] Dosya var mi kontrol edildi: teknik ingilizce -> EVET
+[] Dosya var mi kontrol edildi: sistem programlama -> EVET
+[] Dosya boyutu sorgulandi: sistem programlama (boyut: 7)
+[] Veri eklendi: teknik ingilizce (5 byte)
+[] Dosya kesildi: teknik ingilizce (yeni boyut: 2)
+[] Dosyalar listelendi.
+[] Dosya okundu: teknik ingilizce (offset: 0, size: 2)
+[] Dosya var mi kontrol edildi: teknik ingilizce -> EVET
+[] Dosya var mi kontrol edildi: algoritma analizi -> HAYIR
+[] Dosya var mi kontrol edildi: sistem programlama -> EVET
+[] Dosya boyutu sorgulandi: sistem programlama (boyut: 7)
+[] Dosya okundu: sistem programlama (offset: 0, size: 7)
+[] Dosya olusturuldu: algoritma analizi
+[] Veri yazildi: algoritma analizi (7 byte)
+[] Dosya kopyalandi: sistem programlama -> algoritma analizi
+[] Dosyalar listelendi.
+[] Dosya tasindi: teknik ingilizce -> iot
+[] Dosyalar listelendi.
+[] Disk defragment edildi.
+[] Dosyalar listelendi.
+[] Disk butunlugu kontrol edildi.
+[] Yedek alindi: disk.sim.yedek
+[] Dosyalar listelendi.
+[] Yedek geri yuklendi: disk.sim.yedek
+[] Dosya goruntulendi: iot
+[] Dosyalar karsilasitirildi: sistem programlama <-> algoritma ana
